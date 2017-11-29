@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<latepal>
+
+    <dbname value="CatalogDb"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.example.flying.accountbook.model.CatalogItem"></mapping>
+    </list>
+
+</latepal>
